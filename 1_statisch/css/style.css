@@ -9,6 +9,7 @@
   padding: 0;
   max-width: 20rem;
   margin: 0 auto;
+  color: white;
 }
 
 .figure {
@@ -38,7 +39,7 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
   margin: 0;
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(0, 0, 0, 0.500);
 }
 
 .sticky-img {
@@ -47,4 +48,12 @@
   max-width: 100%;
   object-fit: scale-down;
   overflow: hidden;
+}
+
+.titel {
+  font-size: 32px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  text-align: left;
+  background-color: red;
 }
